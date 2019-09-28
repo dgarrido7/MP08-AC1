@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int valor=0;
+		int valor=1;
 		int comp=0;
 		int max=0;
 
